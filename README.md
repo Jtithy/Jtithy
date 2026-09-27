@@ -54,15 +54,6 @@ I enjoy turning ideas into practical projects and learning new technologies by b
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jtithy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jtithy&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -81,6 +72,12 @@ Machine Learning
        ├── Neural Networks
        ├── Natural Language Processing
        └── Computer Vision
+Web Development
+       │
+       ├── JavaScript
+       ├── Node.js
+       ├── APIs
+       └── Full-Stack Development
 
 Software Engineering
        │
@@ -89,28 +86,7 @@ Software Engineering
        ├── Object-Oriented Programming
        └── Software Architecture
 
-Web Development
-       │
-       ├── JavaScript
-       ├── Node.js
-       ├── APIs
-       └── Full-Stack Development
 ```
-
----
-
-## 🎯 2026–2027 Goals
-
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Build advanced Machine Learning projects
-* [ ] Learn modern Full-Stack Development
-* [ ] Develop production-ready applications
-* [ ] Participate in more hackathons
-* [ ] Contribute to open-source projects
-* [ ] Improve problem-solving skills
-* [ ] Build and deploy AI-powered applications
-
----
 
 ## 💡 Areas of Interest
 
