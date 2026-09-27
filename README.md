@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Web+Developer;Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Jtithy">
-    <img src="https://komarev.com/ghpvc/?username=Jtithy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Jtithy?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jtithy?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
